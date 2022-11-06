@@ -38,12 +38,17 @@ const questions = () => {
             name: 'projectDescription',
             message: 'Please provide a description of your project',
         },
-
+        {
+            type: 'input',
+            name: 'issues',
+            message: 'Please list any issues',
+        },
         {
             type: 'input',
             name: 'installation',
             message: 'Please provide installation requirments, if any',
         },
+
         {
             type: 'input',
             name: 'usage',

@@ -2,24 +2,28 @@
 # README generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-asssssssssssdkasjd askdj aklsjdas lkdjaslkjd alksjd alskjdalsdjkjl  kasjdasd asd  sad asd asda sdas da sda sda sdas da sd asda sd asdas d asdasdas d a sdas dasda sda sda sda sda sdasda sda sda sda sda sda da sd asd asd ad ada da sd asd asda sda da da  asda sd asda sda sd asda da sd asd asdadsasdasd  as da sda sdasdasda   a sdasd asd a dasd ad ad  ad asda d'
+Using node js, this application generats a proffesional README.
 
 ## Installation
-NA
+package inclucded, just run NPM i
 
 ## Usage Instructions
-NA
+node index to run app
 
 ## Credits
 NA
+
 ## Screenshot
-![]()
+![SS](./assets/images/screen.jpeg)
+
+## Issues
+It doesnt have spellcheck :(, also want to move all readme sections to their own functions so that there are no blank headings
 
 ## Link to deployed Site
 [README generator]()
 
 ## Contact
-nicfranekel@gmail.com	
+Nicfraenkel@gmail.com
 
 [Github](https://github.com/Kokkonut)
 

@@ -98,8 +98,12 @@ ${data.usage}
 
 ## Credits
 ${data.credits}
+
 ## Screenshot
-![](${data.screenshot})
+![SS](${data.screenshot})
+
+## Issues
+${data.issues}
 
 ## Link to deployed Site
 [${data.title}](${data.depoly})
